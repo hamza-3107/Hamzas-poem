@@ -4,6 +4,7 @@ Formula 1
 hamilton and max
 Tennis
 Football
+ajax
 Basketball
 NFL
 Table Tennis
